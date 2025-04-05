@@ -1,5 +1,16 @@
 # Hung (TBD) – A Narrative Game About Justice, Morality, and Consequence
 
+**You are one of six who bear the weight of moral deliberation.**  
+**When the law isn't certain, and the evidence is not clear—**  
+
+**There is no easy answer.**  
+**Only the one you can live with.**  
+
+**HUNG.**  
+**Exploring the line between right, wrong, and what we choose anyway.**
+
+---
+
 Hung (TBD) is my most ambitious personal project to date — a custom-built narrative game exploring complex themes like justice, ethics, and the human cost of decision-making.
 
 This project is currently under development. It is being built entirely from scratch using a custom fullstack setup, with a strong emphasis on performance, local-first design, and meaningful interactivity.
